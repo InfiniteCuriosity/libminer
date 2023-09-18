@@ -5,7 +5,7 @@
 \title{Library Summary
 Provides a brief summary of the package libraries on your computer}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
 }
 \value{
 a data.frame containing the count of packages
